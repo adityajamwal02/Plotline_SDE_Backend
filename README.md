@@ -5,7 +5,7 @@ An online billing system is essential for businesses to manage their invoicing, 
 ## Overview
 <br/>
 For the mentioned assignment, there are a few points I would like to inform before evaluation. <br/>
-1) Involved Tools and Technologies : Node.js, Express, MongoDB (Database), Postman (Local Tests, Backend API check) <br/>
+1) Involved Tools and Technologies : Node.js, Express, MongoDB (Database), Postman (Local Tests, Backend API check) <br/> <br/>
 2) MongoDB Atlas Cluster => Project Name: Plotline_SDE_Backend with IP Adress : 0.0.0.0/0 [Open To All], and invite sent to the two given mail id as ReadOnly Members for this Cluster0. <br/>
 3) To run, either download zip file/ git clone (any code editor/ IDE) -> Initialize with npm install (to install all dependencies), for accessing .env files, use MongoDB invitation to know working cluster [MongoDB_URL], for bcrypt (encryption of password at user authentication : Use any 32 bit random symbols, numbers and letters. <br/>
 4) Structure of Backend Application (Node.js Server) -> Root -> src (source) includes app, config and index.js. <br/>
