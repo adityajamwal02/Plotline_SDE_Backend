@@ -1,5 +1,5 @@
 # Plotline_SDE_Backend
-## ADITYA JAMWAL (20103283) | JAYPEE INSTITUTE OF INFORMATION TECHNOLOGY (JIIT)
+## ADITYA JAMWAL
 ## Problem statement
 An online billing system is essential for businesses to manage their invoicing, payments, and financial transactions efficiently. Your task is to develop a Node.js server for a billing system that provides seamless functionality and a user-friendly experience.
 ## Overview
